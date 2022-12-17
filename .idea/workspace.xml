@@ -4,20 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8aae8dca-87bd-4dd8-b3c6-ee7aff75f429" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/task1_Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/task1_Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/task1_Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/task1_Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/task1_Exercise5.java" afterDir="false" />
+    <list default="true" id="8aae8dca-87bd-4dd8-b3c6-ee7aff75f429" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task3/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task3/Exercise1_Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task3/Exercise1_CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task3/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task3/Head.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task3/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task3/HumanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task3/Leg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task7/exercise1/Cup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task7/exercise1/Dish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task7/exercise1/DishTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task7/exercise1/Plate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task7/exercise2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task7/exercise2/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task7/exercise2/Poodle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task7/exercise2/Shepherd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task7/exercise3/Armchair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task7/exercise3/Furniture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task1/task1_Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/task1_Exercise4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +42,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="870ffdae-46fb-4dbe-be31-83d054549aa9" />
+  </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -70,7 +81,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "last_opened_file_path": "D:/Daria/учеба/прога/Java/Exersice1/src/main/java/org/example/task7/Dish.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -79,6 +94,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Exercise3" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.task1.Exercise3" />
@@ -116,6 +136,14 @@
       <option name="presentableId" value="Default" />
       <updated>1671216661246</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1671223180941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671223180941</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,10 +151,46 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Exersice1$task1_Exercise4.ic" NAME="task1_Exercise4 Coverage Results" MODIFIED="1671257733189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.task1.*</FILTER>
+    </SUITE>
   </component>
 </project>
