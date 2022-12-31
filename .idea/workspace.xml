@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8aae8dca-87bd-4dd8-b3c6-ee7aff75f429" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task17/FileApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task18/ex1/Exception1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task18/ex1/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task18/ex2/Exception2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task18/ex2/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task19/BoundedWaitList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task19/IWaitList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task19/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task19/UnfairWaitList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task19/WaitList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task19/ex1/InnChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task19/ex1/InnV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task1/task1_Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task1/task1_Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task18/ex2/Exception2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task18/ex2/Exercise2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672497131871</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Commit">
+      <created>1672498760704</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1672498760704</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

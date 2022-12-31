@@ -1,7 +1,7 @@
 package org.example.task1;
 
 public class task1_Exercise2 {
-    //public class Exercise2 {
+    public class Exercise2 {
 
         public static void main(String[] args) {
             if (args.length == 0) {
@@ -13,4 +13,4 @@ public class task1_Exercise2 {
             }
         }
     }
-//}
+}
