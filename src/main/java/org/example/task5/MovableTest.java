@@ -1,4 +1,6 @@
-package org.example.task5;
+package org.example.task6;
+
+import org.example.task6.ex4.MovableRectangle;
 
 public class MovableTest {
 

@@ -1,4 +1,6 @@
-package org.example.task5;
+package org.example.task6.ex4;
+
+import org.example.task5.Movable;
 
 public class MovablePoint implements Movable {
     private int x;

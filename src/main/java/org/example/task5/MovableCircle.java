@@ -1,5 +1,7 @@
 package org.example.task5;
 
+import org.example.task6.ex4.MovablePoint;
+
 public class MovableCircle implements Movable {
     private final int radius;
     private final MovablePoint center;
