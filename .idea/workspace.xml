@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8aae8dca-87bd-4dd8-b3c6-ee7aff75f429" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task8/ex1/Animation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task8/ex1/DisplayImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task8/ex1/FireSprite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task8/ex1/fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672486366346</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Commit">
+      <created>1672489759240</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672489759240</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
