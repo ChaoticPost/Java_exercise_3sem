@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8aae8dca-87bd-4dd8-b3c6-ee7aff75f429" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/ShapesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task10/Exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task10/Exercise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task10/Exercise6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task10/Exercise7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task10/Exercise8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task9/MyApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Oval.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/ShapesTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Triangle.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,26 +93,6 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="ShapesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.task8.ex2.ShapesTest" />
-      <module name="Exersice1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.task8.ex2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.ShapesTest" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -206,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672490760930</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Commit">
+      <created>1672493318538</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1672493318538</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
