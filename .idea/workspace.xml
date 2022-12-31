@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8aae8dca-87bd-4dd8-b3c6-ee7aff75f429" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task5/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task6/MovableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task6/MovableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task5/MovableCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task5/MovableCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task5/MovablePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task6/ex4/MovablePoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task5/MovableRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task6/ex4/MovableRectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task5/MovableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/task5/MovableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task6/ex4/MovablePoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task6/ex4/MovableRectangle.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672485697228</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Commit">
+      <created>1672485950711</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1672485950711</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

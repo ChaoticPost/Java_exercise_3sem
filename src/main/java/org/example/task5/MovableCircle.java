@@ -1,14 +1,12 @@
 package org.example.task5;
 
-import org.example.task6.ex4.MovablePoint;
-
 public class MovableCircle implements Movable {
     private final int radius;
-    private final MovablePoint center;
+    private final MovableTest.MovablePoint center;
 
     public MovableCircle(int x, int y, int xSpeed, int ySpeed, int radius) {
         this.radius = radius;
-        this.center = new MovablePoint(x, y, xSpeed, ySpeed);
+        this.center = new MovableTest.MovablePoint(x, y, xSpeed, ySpeed);
     }
 
     @Override

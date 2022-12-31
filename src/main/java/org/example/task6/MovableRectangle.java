@@ -1,6 +1,7 @@
-package org.example.task6.ex4;
+package org.example.task6;
 
 import org.example.task5.Movable;
+import org.example.task5.MovablePoint;
 
 public class MovableRectangle implements Movable {
     private final MovablePoint topLeft;
@@ -43,4 +44,3 @@ public class MovableRectangle implements Movable {
                 '}';
     }
 }
-
