@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8aae8dca-87bd-4dd8-b3c6-ee7aff75f429" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task10/Exercise4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task10/Exercise5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task10/Exercise6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task10/Exercise7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task10/Exercise8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task9/MyApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Oval.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Shape.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/ShapesTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/task8/ex2/Triangle.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task11/GuessingGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/task11/ex2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672493318538</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Commit">
+      <created>1672495133282</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1672495133282</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
